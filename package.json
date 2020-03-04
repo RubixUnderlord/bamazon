@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Homework for coding class",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubixUnderlord/bamazon.git"
+  },
+  "author": "Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubixUnderlord/bamazon/issues"
+  },
+  "homepage": "https://github.com/RubixUnderlord/bamazon#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "mysql": "^2.18.1"
+  }
+}
